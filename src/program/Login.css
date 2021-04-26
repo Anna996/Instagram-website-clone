@@ -1,0 +1,59 @@
+.login {
+  background-color: white;
+  width: 350px;
+  margin-top: 60px;
+  border: 1px solid #dbdbdb;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+}
+
+.login__image {
+  object-fit: contain;
+  width: 190px;
+}
+
+.login__form {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+.login__input {
+  margin-bottom: 6px;
+  height: 40px;
+  width: 260px;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  background-color: #fafafa;
+  font-size: 12px;
+  padding: 10px;
+}
+
+.login__input:focus {
+  outline: none;
+  border: 0.5px solid #8e8e8e;
+}
+
+.login__divider {
+  padding-bottom: 20px;
+}
+
+.login__facebookBtn {
+  background-color: white;
+  border: 0 solid white;
+  color: #385185;
+  font-weight: bold;
+}
+.login__facebookBtn:hover {
+  background-color: white;
+  border: 0 solid white;
+  color: #385185;
+}
+
+.login__link {
+  text-decoration: none;
+  color: #0095f6;
+  font-weight: bold;
+  font-size: 15px;
+}

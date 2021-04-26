@@ -1,0 +1,10 @@
+.ImageUploader {
+  display: flex;
+  flex-direction: column;
+  width: 580px;
+  margin-bottom: 40px;
+}
+
+.ImageUploader__info {
+  margin-bottom: 10px;
+}

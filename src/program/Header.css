@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  background-color: white;
+  width: 100vw;
+  height: 55px;
+  border: 1px solid #dbdbdb;
+  justify-content: space-between;
+  position: sticky;
+  z-index: 1;
+  top: 0;
+  margin-bottom: 50px;
+}
+
+.header__image {
+  object-fit: contain;
+  width: 110px;
+  margin-left: 15px;
+}
+
+.header__icons {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  object-fit: contain;
+  margin-right: 10px;
+}
+
+.header__feed {
+  color: black;
+  margin-right: 12px;
+  margin-left: 5px;
+}

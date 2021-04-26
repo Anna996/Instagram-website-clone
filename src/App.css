@@ -1,0 +1,8 @@
+.app {
+  background-color: #fafafa;
+}
+
+.app__body {
+  display: grid;
+  place-items: center;
+}
