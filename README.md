@@ -17,7 +17,7 @@
   <li>Log in with Facebook.</li>
 </ul>
   
-<a href="https://youtu.be/I2K_TXAikXQ" target="_blank">Youtube Demo</a> 
+<a href="https://youtu.be/I2K_TXAikXQ">Youtube Demo</a> 
 
 ![](gif_1.gif)
 
